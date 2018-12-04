@@ -1,0 +1,11 @@
+1. We have 6 goods with weight of packets 250,20,69,70,58,99. The truck total is 400.
+
+Result: 
+Chosen goods for weight 400: 58,70,20,250 
+Weigth left: 2
+
+2. We have 8 goods with weight of packets 398,666,250,28,69,34,58,210. The truck total is 400.
+
+Result: 
+Chosen goods for weight 400: 210, 58, 34, 69, 28
+Weigth left: 1
